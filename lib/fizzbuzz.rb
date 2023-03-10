@@ -15,8 +15,8 @@ def fb_check(number)
   return number
 end
 
-numbers = Array(1..100)
+# numbers = Array(1..100)
 
-numbers.each { |n|
-  puts(fb_check(n))
-}
+# numbers.each { |n|
+#   puts(fb_check(n))
+# }
